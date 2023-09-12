@@ -74,15 +74,15 @@ header { /*cabeçalho*/
 
             @keyframes botao {
                 0%{
-                    transform: scale(1);
+                    transform: scale(1); /*Mantendo o botão no tamanho real*/
                 }
             
                 50%{
-                    transform: scale(1.1)
+                    transform: scale(1.1) /*Alterando o tamanho do botão*/
                 }
             
                 100%{
-                    transform: scale(1);
+                    transform: scale(1); /*Mantendo o botão no tamanho real*/
                 }}
 
     section p {
