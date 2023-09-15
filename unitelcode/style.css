@@ -1,0 +1,256 @@
+<<<<<<< HEAD
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: white;
+}
+
+a, button {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 128, 0);
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 128, 0);
+    text-align: center;
+}
+
+=======
+>>>>>>> 72f959f6dabcbfa041826086e3b92db7d88a3784
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+<<<<<<< HEAD
+    align-items: center;
+    background-color: #654fa5;
+    height: 100px;
+    color: white;
+}
+
+.container img{
+    width: 260px;
+    height: 50px;
+    margin-left: 40px;
+=======
+   align-items: center;
+}
+
+.container img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 70px;
+>>>>>>> 72f959f6dabcbfa041826086e3b92db7d88a3784
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+}
+
+.menu li{
+    padding: 0 20px;
+}
+
+<<<<<<< HEAD
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    border-bottom: 2px solid orange;
+    padding-bottom: 5px;
+}
+
+button{
+    margin-right: 50px;
+    margin-left: 30px;
+    border: none;
+    padding: 10px 30px ;
+    color: white;
+    background-color: rgb(255, 128, 0);
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.201);
+}
+
+button:hover {
+    background-color: rgba(255, 128, 0, 0.724);
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.37); 
+}
+
+.container-info{
+    margin-top: 80px;
+    margin-bottom: 100px;
+=======
+button{
+    margin-right: 20px;
+    border: none;
+    padding: 10px 30px ;
+    color: white;
+    background-color: orange;
+    border-radius: 15px;
+
+}
+
+.container-info{
+>>>>>>> 72f959f6dabcbfa041826086e3b92db7d88a3784
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+<<<<<<< HEAD
+.fundo-img img{
+    width: 600px;
+    border-radius: 2%;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.475);
+}
+
+.info-unitel{
+    display: flex;
+    flex-direction: column;
+=======
+a{
+    text-decoration: none;
+    color: white;
+    border-radius: 35px;
+>>>>>>> 72f959f6dabcbfa041826086e3b92db7d88a3784
+}
+
+.cadastrar{
+  background-color:#654fa5;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  text-align: center;
+<<<<<<< HEAD
+  text-decoration: none;
+  color: white;
+}
+
+.cadastrar:hover{
+  background-color:#3e2a78ea;
+  box-shadow: 1px 1px 5px #3e2a787e;
+}
+
+.saber{
+    border: 1px solid #654fa529;
+    padding: 15px 20px;
+    color: #654fa5;
+    text-align: center;
+    text-decoration: none;
+}
+
+.saber:hover{
+    border: 1px solid #654fa5;
+}
+
+section#id_telefones {
+    padding: 60px 0;
+    background-color: #5C0D8A;
+    height: 450px;
+    text-align: center;
+}
+
+button#mais_tel {
+    margin-top: 30px;
+}
+
+section#id_telefones img {
+    height: 350px;
+}
+
+section#id_recargas {
+    background-color: white;
+    height: 400px;
+    padding: 60px 0;
+    text-align: center;
+}
+
+section#id_recargas img {
+    width: 300px;
+    margin: 10px;
+}
+
+#cartoes {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button#n_recargas {
+    margin-top: 50px;
+}
+
+#mais_info {
+    height: 400px;
+    background-image: url(unitel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+footer {
+    background-color: rgb(255, 115, 0);
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    padding-top: 40px;
+    
+}
+
+footer div {
+    margin-left: 40px;
+}
+
+footer a.link {
+    display: block;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.82);
+}
+
+footer a.link:hover {
+    text-decoration: underline;
+}
+
+.redesSociais {
+    width: 35px;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+.redesSociais:hover {
+    background-color: white;
+}
+=======
+}
+
+.info-unitel{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.saber{
+    border: 1px solid #654fa5;
+    padding: 15px 20px;
+    color: #654fa5;
+    text-align: center;
+}
+>>>>>>> 72f959f6dabcbfa041826086e3b92db7d88a3784
